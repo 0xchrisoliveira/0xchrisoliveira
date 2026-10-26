@@ -82,9 +82,7 @@ Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arq
 [+] ABRINDO PORTAS (UTFPR). Desenvolvedor Front-End no projeto de extensão universitária, entregando
                             interfaces web acessíveis e funcionais com produtividade acelerada por IA.
 [+] PESQUISA IoT SECURITY . 12 meses de Iniciação Científica (IFSULDEMINAS) analisando vulnerabilidades em
-                            câmeras IP. Resultou em artigo no SICITE 2026, pacote no Zenodo e guia público.
-[+] PUBLICAÇÕES SBC ....... Coautor em estudos sobre desempenho de Máquinas Virtuais vs. Contêineres e
-                            estratégias ativas no ensino de Engenharia de Software (SBC WEI).
+                            câmeras IP. Resultou em submissão no SICITE 2026, pacote no Zenodo e guia público.
 ```
 
 ---
@@ -105,6 +103,4 @@ Buscando alguém com **base sólida em computação e segurança**, capaz de **l
 
 <div align="center">
 
-🌐 **[profile.0xchris.com.br](https://profile.0xchris.com.br)** · 💼 **[LinkedIn (in/crpoliveira)](https://www.linkedin.com/in/crpoliveira)** · 🔬 **[ORCID](https://orcid.org/0009-0000-8492-7660)**
-
-</div>
+🌐 **
