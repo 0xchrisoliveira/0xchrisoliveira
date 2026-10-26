@@ -1,66 +1,110 @@
-### Olá, eu sou o Chris 👋
+<div align="center">
 
-Estudante de Engenharia de Computação na UTFPR (Campus Cornélio Procópio) e graduado em Tecnologia em Banco de Dados pela FAM. Gosto de construir sistemas de ponta a ponta — do backend até o hardware — e prefiro arquiteturas enxutas, rodando localmente e com o mínimo de dependências externas possível.
+```text
+   ██████╗ ██╗  ██╗ ██████╗██╗  ██╗██████╗ ██╗███████╗
+  ██╔═████╗╚██╗██╔╝██╔════╝██║  ██║██╔══██╗██║██╔════╝
+  ██║██╔██║ ╚███╔╝ ██║     ███████║██████╔╝██║███████╗
+  ████╔╝██║ ██╔██╗ ██║     ██╔══██║██╔══██║██║╚════██║
+  ╚██████╔╝██╔╝ ██╗╚██████╗██║  ██║██║  ██║██║███████║
+   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+   [ AI AGENT ORCHESTRATION · CYBERSECURITY · HARDWARE HACKING ]
+```
 
-## O que eu construo
+**Construindo sistemas completos de ponta a ponta — da arquitetura e hardware ao produto final.**  
+*Fundamentos sólidos de computação potencializados por Orquestração de Agentes de IA e execução local.*
 
-**Automação com IA local**
-Pipelines que orquestram LLMs, TTS e processamento de vídeo/áudio de forma autônoma, usando agentes de automação (Hermes Agent) para coordenar etapas como geração de roteiro, síntese de voz, legendagem e renderização com aceleração de GPU.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-profile.0xchris.com.br-000000?style=for-the-badge)](https://profile.0xchris.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-crpoliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crpoliveira)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--8492--7660-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8492-7660)
 
-**Aplicações fullstack**
-Sistemas com backend em FastAPI e frontend em React/TypeScript, incluindo autenticação OAuth2, integração com APIs externas (YouTube Data/Analytics) e recursos de geração de conteúdo assistida por IA.
+</div>
 
-**Hardware hacking & biohacking**
-Firmware customizado para ESP32/ESP32-S3, engenharia reversa de placas embarcadas (incluindo extração via UART), e projetos que unem microcontroladores a displays, NFC e automação física. Esse interesse vai além do teclado: tenho um microchip NFC implantado na mão, que uso para automações físicas do dia a dia — uma extensão bem literal de "hardware hacking".
+---
 
-## Projetos em destaque
+### `$ whoami`
 
-- **[auto-video-producer](https://github.com/0xchrisoliveira/auto-video-producer)** — pipeline automatizado de produção de vídeos verticais: geração de roteiro via LLM local, TTS, seleção de vídeo de fundo, legendas sincronizadas (faster-whisper) e render com FFmpeg + NVENC.
-- **YTDash** *(em breve público)* — dashboard estilo YouTube Studio com FastAPI + React/TypeScript, multi-canal, agendamento de vídeos e geração de metadados assistida por IA.
-- **Projetos ESP32** *(em breve públicos)* — firmware customizado e engenharia reversa em placas ESP32-S3/S0WD, incluindo compilação ESP-IDF e remapeamento de GPIO.
+```text
+┌──(chris㉿0xchris)-[~]
+└─$ cat /etc/passwd | grep chris
 
-<!-- TODO: atualize esses links/status conforme for publicando os repos -->
+> Nome ..............: Christopher Oliveira (Chris)
+> Formação ..........: Eng. de Computação @ UTFPR | Tecnólogo em Banco de Dados (FAM)
+> Liderança .........: Diretor de Ethical Hacking @ Cyberguard (UTFPR)
+> Extensão ..........: Desenvolvedor Front-End @ Projeto Abrindo Portas (UTFPR)
+> Especialidade .....: Orquestração de Agentes de IA, Automação Local, Segurança & Sistemas Embarcados
+> Biohacking ........: Microchip NFC implantado na mão para automações físicas e controle de acesso
+> Status ............: Aberto a oportunidades técnicas, P&D e projetos sob demanda (Consultoria/Freelance)
+```
 
-## Formação e pesquisa
+---
 
-- 🎓 Tecnologia em Banco de Dados — FAM (concluído, 2026)
-- 🎓 Engenharia de Computação — UTFPR, cursando
-- 🔬 Iniciação científica de 12 meses no IFSULDEMINAS, sobre segurança de câmeras IP — resultou em submissão no SICITE 2026, pacote de publicação no Zenodo e um guia público de boas práticas ([ORCID](https://orcid.org/0009-0000-8492-7660))
+### 🧠 Como eu construo software (Arquitetura + Agentes de IA)
 
-## Stack técnica
+Meu foco não é ficar preso a uma única camada da stack, mas sim **resolver problemas reais entregando sistemas completos**. 
 
-**Backend**
+Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arquitetura e segurança) com **fluxos avançados de Orquestração de Agentes de IA**. Isso me permite atuar como um "exército de um homem só" quando necessário: arquiteto o backend, integro o hardware e dirijo agentes de IA para acelerar a construção de interfaces Front-End completas e funcionais.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+```text
+                       ┌───> [ Pipelines de Mídia, TTS & GPU (NVENC) ]
+                       │
+[ Arquitetura & ] ─────┼───> [ Backend (FastAPI / SQL) & Automações ]
+[ Orquestração  ]      │
+[ de Agentes IA ]      ├───> [ Front-End Acelerado por IA (React / TS) ]
+                       │
+                       └───> [ Hardware Embarcado (ESP32 / UART / NFC) ]
+```
 
-**Frontend**
+* 🤖 **Desenvolvimento Guiado por Agentes & IA Local:** Criação de produtos completos e pipelines autônomos que orquestram LLMs locais (Ollama), múltiplos agentes (Hermes Agent, Langflow), síntese de voz, transcrição (`faster-whisper`) e renderização via GPU (`FFmpeg` + `NVENC`) — entregando velocidade comercial sem custos absurdos de APIs em nuvem.
+* 🛡️ **Cibersegurança, Redes & Liderança Técnica:** Diretor da equipe de Ethical Hacking no projeto **Cyberguard (UTFPR)**, onde formo estudantes nas bases essenciais da computação — **Linux, Redes de Computadores, Segurança Ofensiva/Defensiva (Web, Sistemas e Binários)** — além de pesquisar vulnerabilidades em dispositivos IoT.
+* 🔌 **Hardware Hacking & Biohacking:** Firmware customizado para `ESP32`/`ESP32-S3`, engenharia reversa de placas embarcadas (extração via UART) e integração entre mundo físico e digital (sensores, displays, BLE e o microchip NFC que carrego implantado na mão).
+* 💻 **Entrega Fullstack Pragmática:** Embora minha raiz seja backend, dados, infraestrutura e baixo nível, atuo como Dev Front-End no projeto de extensão **Abrindo Portas (UTFPR)** e utilizo orquestração de agentes de IA para entregar interfaces modernas em **React/TypeScript** integradas a backends **FastAPI** e OAuth2.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
-**IA, automação e mídia**
+### 🛠️ Projetos em Destaque
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+| Projeto | Ecossistema & Tecnologias | O que ele faz |
+| :--- | :--- | :--- |
+| 🎬 **[auto-video-producer](https://github.com/0xchrisoliveira/auto-video-producer)** | `Python` `Hermes Agent` `Ollama` `FFmpeg` `Faster-Whisper` | Pipeline 100% autônomo orquestrado por agentes: gera roteiro via LLM local, sintetiza voz (TTS), seleciona mídia, sincroniza legendas e renderiza na GPU via NVENC. |
+| 📊 **YTDash** *(Em breve público)* | `FastAPI` `React` `TypeScript` `OAuth2` `AI Agents` | Aplicação completa estilo YouTube Studio multi-canal, com agendamento de vídeos e geração de metadados por IA (construída combinando arquitetura FastAPI e agentes de IA no front-end). |
+| 🔌 **ESP32 Hardware Lab** *(Em breve)* | `C++` `ESP-IDF` `ESP32-S3` `UART` `BLE` | Projetos de hardware hacking, engenharia reversa via UART, remapeamento de GPIO e dispositivos inteligentes (balança BLE/TFT e automações NFC). |
+| ☕ **[coffee-journal](https://github.com/0xchrisoliveira/coffee-journal)** | `TypeScript` `React` `Vite` `TailwindCSS` | Aplicação web para controle de variáveis de extração e análise sensorial de cafés especiais, desenvolvida com fluxo assistido por IA. |
+| 💼 **[Gerenciador-vendas](https://github.com/0xchrisoliveira/Gerenciador-vendas)** | `TypeScript` `React` | Sistema prático para gestão de vendas, estoque e operação de pequenos negócios. |
+| 🤝 **[Lluciocc/Vish](https://github.com/Lluciocc/Vish)** *(Open Source)* | `Python` `Bash` | Contribuição open-source no editor visual baseado em nós para automação em Bash (+300 ⭐). |
 
-**Hardware**
+---
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🚩 Liderança, Extensão & Pesquisa Científica
 
-**Ferramentas**
+```text
+[+] CYBERGUARD (UTFPR) .... Diretor de Ethical Hacking. Lidero o treinamento técnico da equipe desde a
+                            base (Linux, Redes, Arquitetura) até Pentest Web, Sistemas, Binários e Defesa.
+[+] ABRINDO PORTAS (UTFPR). Desenvolvedor Front-End no projeto de extensão universitária, entregando
+                            interfaces web acessíveis e funcionais com produtividade acelerada por IA.
+[+] PESQUISA IoT SECURITY . 12 meses de Iniciação Científica (IFSULDEMINAS) analisando vulnerabilidades em
+                            câmeras IP. Resultou em artigo no SICITE 2026, pacote no Zenodo e guia público.
+[+] PUBLICAÇÕES SBC ....... Coautor em estudos sobre desempenho de Máquinas Virtuais vs. Contêineres e
+                            estratégias ativas no ensino de Engenharia de Software (SBC WEI).
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-## Contato
+### 🧰 Arsenal Técnico
 
-📫 [profile.0xchris.com.br](https://profile.0xchris.com.br) · [LinkedIn](https://www.linkedin.com/in/crpoliveira/) · [Lattes](https://lattes.cnpq.br/6849974399692531)
+* **IA & Orquestração de Agentes:** Agentes Autônomos (Hermes Agent), Ollama (LLMs Locais), Langflow, Faster-Whisper, Automação de Workflows Complexos.
+* **Fundamentos, Infra & Segurança:** Linux (Arch / Hyprland), Redes de Computadores, Pentest & IoT Security, Docker, Git, Bash, Tailscale, Cloudflare, OpenSSH.
+* **Backend, Dados & Mídia:** Python, FastAPI, Flask, SQL, SQLAlchemy, Modelagem de Bancos de Dados, FFmpeg (NVENC).
+* **Hardware & Sistemas Embarcados:** ESP32 / ESP32-S3, C/C++, ESP-IDF, Engenharia Reversa (UART), NFC/RFID, BLE.
+* **Front-End (AI-Augmented):** React, TypeScript, Vite, TailwindCSS (desenvolvimento ágil de interfaces completas via orquestração de agentes).
 
-<!-- TODO: troque o link "#" do LinkedIn pelo seu link real -->
+---
+
+### 📫 Contato & Parcerias
+
+Buscando alguém com **base sólida em computação e segurança**, capaz de **liderar iniciativas técnicas** ou **construir sistemas e automações completas de ponta a ponta usando Agentes de IA**? Vamos conversar:
+
+<div align="center">
+
+🌐 **[profile.0xchris.com.br](https://profile.0xchris.com.br)** · 💼 **[LinkedIn (in/crpoliveira)](https://www.linkedin.com/in/crpoliveira)** · 🔬 **[ORCID](https://orcid.org/0009-0000-8492-7660)**
+
+</div>
