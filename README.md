@@ -42,9 +42,10 @@
 
 Meu foco não é ficar preso a uma única camada da stack, mas sim **resolver problemas reais entregando sistemas completos**. 
 
-Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arquitetura e segurança) com **fluxos avançados de Orquestração de Agentes de IA**. Isso me permite atuar como um "exército de um homem só" quando necessário: arquiteto o backend, integro o hardware e dirijo agentes de IA para acelerar a construção de interfaces Front-End completas e funcionais.
+Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arquitetura e segurança) com **fluxos avançados de Orquestração de Agentes de IA**. Isso me permite arquitetar o backend, estruturar os dados, integrar o hardware e dirigir agentes de IA para acelerar a construção de aplicações e interfaces Front-End completas e funcionais.
 
-```text
+<div align="center">
+<table><tr><td><pre>
                        ┌───> [ Pipelines de Mídia, TTS & GPU (NVENC) ]
                        │
 [ Arquitetura & ] ─────┼───> [ Backend (FastAPI / SQL) & Automações ]
@@ -52,12 +53,13 @@ Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arq
 [ de Agentes IA ]      ├───> [ Front-End Acelerado por IA (React / TS) ]
                        │
                        └───> [ Hardware Embarcado (ESP32 / UART / NFC) ]
-```
+</pre></td></tr></table>
+</div>
 
-* 🤖 **Desenvolvimento Guiado por Agentes & IA Local:** Criação de produtos completos e pipelines autônomos que orquestram LLMs locais (Ollama), múltiplos agentes (Hermes Agent, Langflow), síntese de voz, transcrição (`faster-whisper`) e renderização via GPU (`FFmpeg` + `NVENC`) — entregando velocidade comercial sem custos absurdos de APIs em nuvem.
+* 🤖 **Desenvolvimento Guiado por Agentes & IA Local:** Criação de produtos completos e pipelines autônomos que orquestram LLMs locais (Ollama), múltiplos agentes (Hermes Agent, Langflow), síntese de voz, transcrição (`faster-whisper`) e renderização via GPU (`FFmpeg` + `NVENC`) — entregando velocidade comercial sem depender de APIs caras em nuvem.
 * 🛡️ **Cibersegurança, Redes & Liderança Técnica:** Diretor da equipe de Ethical Hacking no projeto **Cyberguard (UTFPR)**, onde formo estudantes nas bases essenciais da computação — **Linux, Redes de Computadores, Segurança Ofensiva/Defensiva (Web, Sistemas e Binários)** — além de pesquisar vulnerabilidades em dispositivos IoT.
 * 🔌 **Hardware Hacking & Biohacking:** Firmware customizado para `ESP32`/`ESP32-S3`, engenharia reversa de placas embarcadas (extração via UART) e integração entre mundo físico e digital (sensores, displays, BLE e o microchip NFC que carrego implantado na mão).
-* 💻 **Entrega Fullstack Pragmática:** Embora minha raiz seja backend, dados, infraestrutura e baixo nível, atuo como Dev Front-End no projeto de extensão **Abrindo Portas (UTFPR)** e utilizo orquestração de agentes de IA para entregar interfaces modernas em **React/TypeScript** integradas a backends **FastAPI** e OAuth2.
+* 💻 **Entrega Fullstack Pragmática:** Minha raiz é backend, dados, infraestrutura e baixo nível, mas atuo como Dev Front-End no projeto de extensão **Abrindo Portas (UTFPR)** e utilizo orquestração de agentes de IA para entregar interfaces modernas em **React/TypeScript** integradas a sistemas reais.
 
 ---
 
@@ -65,12 +67,10 @@ Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arq
 
 | Projeto | Ecossistema & Tecnologias | O que ele faz |
 | :--- | :--- | :--- |
-| 🎬 **[auto-video-producer](https://github.com/0xchrisoliveira/auto-video-producer)** | `Python` `Hermes Agent` `Ollama` `FFmpeg` `Faster-Whisper` | Pipeline 100% autônomo orquestrado por agentes: gera roteiro via LLM local, sintetiza voz (TTS), seleciona mídia, sincroniza legendas e renderiza na GPU via NVENC. |
-| 📊 **YTDash** *(Em breve público)* | `FastAPI` `React` `TypeScript` `OAuth2` `AI Agents` | Aplicação completa estilo YouTube Studio multi-canal, com agendamento de vídeos e geração de metadados por IA (construída combinando arquitetura FastAPI e agentes de IA no front-end). |
-| 🔌 **ESP32 Hardware Lab** *(Em breve)* | `C++` `ESP-IDF` `ESP32-S3` `UART` `BLE` | Projetos de hardware hacking, engenharia reversa via UART, remapeamento de GPIO e dispositivos inteligentes (balança BLE/TFT e automações NFC). |
-| ☕ **[coffee-journal](https://github.com/0xchrisoliveira/coffee-journal)** | `TypeScript` `React` `Vite` `TailwindCSS` | Aplicação web para controle de variáveis de extração e análise sensorial de cafés especiais, desenvolvida com fluxo assistido por IA. |
-| 💼 **[Gerenciador-vendas](https://github.com/0xchrisoliveira/Gerenciador-vendas)** | `TypeScript` `React` | Sistema prático para gestão de vendas, estoque e operação de pequenos negócios. |
-| 🤝 **[Lluciocc/Vish](https://github.com/Lluciocc/Vish)** *(Open Source)* | `Python` `Bash` | Contribuição open-source no editor visual baseado em nós para automação em Bash (+300 ⭐). |
+| 🎬 **[auto-video-producer](https://github.com/0xchrisoliveira/auto-video-producer)** | `Python` `Hermes Agent` `Ollama` `FFmpeg` `Faster-Whisper` | Pipeline 100% autônomo orquestrado por agentes: gera roteiro via LLM local, sintetiza voz (TTS), seleciona mídia de fundo, sincroniza legendas e renderiza na GPU via NVENC. |
+| 🛡️ **[team-hub](https://github.com/0xchrisoliveira/team-hub)** | `TypeScript` `React` `FastAPI` `AI Orchestration` | Plataforma completa de gestão, onboarding, mapeamento de skills, alocação de tarefas e disponibilidade de membros para equipes técnicas (desenvolvida para coordenar o time do Cyberguard). |
+| ☕ **[coffee-journal](https://github.com/0xchrisoliveira/coffee-journal)** | `TypeScript` `React` `Vite` `TailwindCSS` | Aplicação web para registro, controle de variáveis de extração e análise sensorial de cafés especiais, construída com fluxo assistido por Agentes de IA. |
+| 🤝 **[Lluciocc/Vish](https://github.com/Lluciocc/Vish)** *(Open Source)* | `Python` `Bash` | Contribuição open-source no editor visual baseado em nós para criação de scripts e automação em Bash (+300 ⭐ no GitHub). |
 
 ---
 
