@@ -103,4 +103,6 @@ Buscando alguém com **base sólida em computação e segurança**, capaz de **l
 
 <div align="center">
 
-🌐 **
+🌐 **[profile.0xchris.com.br](https://profile.0xchris.com.br)** · 💼 **[LinkedIn (in/crpoliveira)](https://www.linkedin.com/in/crpoliveira)** · 🔬 **[ORCID](https://orcid.org/0009-0000-8492-7660)**
+
+</div>
