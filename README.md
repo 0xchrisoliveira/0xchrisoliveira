@@ -29,7 +29,6 @@
 
 > Nome ..............: Christopher Oliveira (Chris)
 > Formação ..........: Eng. de Computação @ UTFPR | Tecnólogo em Banco de Dados (FAM)
-> Liderança .........: Diretor de Ethical Hacking @ Cyberguard (UTFPR)
 > Extensão ..........: Desenvolvedor Front-End @ Projeto Abrindo Portas (UTFPR)
 > Especialidade .....: Orquestração de Agentes de IA, Automação Local, Segurança & Sistemas Embarcados
 > Biohacking ........: Microchip NFC implantado na mão para automações físicas e controle de acesso
@@ -57,7 +56,7 @@ Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arq
 </div>
 
 * 🤖 **Desenvolvimento Guiado por Agentes & IA Local:** Criação de produtos completos e pipelines autônomos que orquestram LLMs locais (Ollama), múltiplos agentes (Hermes Agent, Langflow), síntese de voz, transcrição (`faster-whisper`) e renderização via GPU (`FFmpeg` + `NVENC`) — entregando velocidade comercial sem depender de APIs caras em nuvem.
-* 🛡️ **Cibersegurança, Redes & Liderança Técnica:** Diretor da equipe de Ethical Hacking no projeto **Cyberguard (UTFPR)**, onde formo estudantes nas bases essenciais da computação — **Linux, Redes de Computadores, Segurança Ofensiva/Defensiva (Web, Sistemas e Binários)** — além de pesquisar vulnerabilidades em dispositivos IoT.
+* 🛡️ **Cibersegurança, Redes & Fundamentos:** Base sólida nos pilares da computação — **Linux, Redes de Computadores, Segurança Ofensiva/Defensiva (Web, Sistemas e Binários)** — aliada à pesquisa prática em vulnerabilidades de dispositivos embarcados e IoT.
 * 🔌 **Hardware Hacking & Biohacking:** Firmware customizado para `ESP32`/`ESP32-S3`, engenharia reversa de placas embarcadas (extração via UART) e integração entre mundo físico e digital (sensores, displays, BLE e o microchip NFC que carrego implantado na mão).
 * 💻 **Entrega Fullstack Pragmática:** Minha raiz é backend, dados, infraestrutura e baixo nível, mas atuo como Dev Front-End no projeto de extensão **Abrindo Portas (UTFPR)** e utilizo orquestração de agentes de IA para entregar interfaces modernas em **React/TypeScript** integradas a sistemas reais.
 
@@ -68,17 +67,15 @@ Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arq
 | Projeto | Ecossistema & Tecnologias | O que ele faz |
 | :--- | :--- | :--- |
 | 🎬 **[auto-video-producer](https://github.com/0xchrisoliveira/auto-video-producer)** | `Python` `Hermes Agent` `Ollama` `FFmpeg` `Faster-Whisper` | Pipeline 100% autônomo orquestrado por agentes: gera roteiro via LLM local, sintetiza voz (TTS), seleciona mídia de fundo, sincroniza legendas e renderiza na GPU via NVENC. |
-| 🛡️ **[team-hub](https://github.com/0xchrisoliveira/team-hub)** | `TypeScript` `React` `FastAPI` `AI Orchestration` | Plataforma completa de gestão, onboarding, mapeamento de skills, alocação de tarefas e disponibilidade de membros para equipes técnicas (desenvolvida para coordenar o time do Cyberguard). |
+| 🗂️ **[team-hub](https://github.com/0xchrisoliveira/team-hub)** | `TypeScript` `React` `FastAPI` `AI Orchestration` | Plataforma completa de gestão, onboarding, mapeamento de skills, alocação de tarefas e disponibilidade de membros para equipes técnicas e projetos. |
 | ☕ **[coffee-journal](https://github.com/0xchrisoliveira/coffee-journal)** | `TypeScript` `React` `Vite` `TailwindCSS` | Aplicação web para registro, controle de variáveis de extração e análise sensorial de cafés especiais, construída com fluxo assistido por Agentes de IA. |
 | 🤝 **[Lluciocc/Vish](https://github.com/Lluciocc/Vish)** *(Open Source)* | `Python` `Bash` | Contribuição open-source no editor visual baseado em nós para criação de scripts e automação em Bash (+300 ⭐ no GitHub). |
 
 ---
 
-### 🚩 Liderança, Extensão & Pesquisa Científica
+### 🚩 Extensão & Pesquisa Científica
 
 ```text
-[+] CYBERGUARD (UTFPR) .... Diretor de Ethical Hacking. Lidero o treinamento técnico da equipe desde a
-                            base (Linux, Redes, Arquitetura) até Pentest Web, Sistemas, Binários e Defesa.
 [+] ABRINDO PORTAS (UTFPR). Desenvolvedor Front-End no projeto de extensão universitária, entregando
                             interfaces web acessíveis e funcionais com produtividade acelerada por IA.
 [+] PESQUISA IoT SECURITY . 12 meses de Iniciação Científica (IFSULDEMINAS) analisando vulnerabilidades em
@@ -99,7 +96,7 @@ Uno o domínio das **bases da computação** (Linux, redes, bancos de dados, arq
 
 ### 📫 Contato & Parcerias
 
-Buscando alguém com **base sólida em computação e segurança**, capaz de **liderar iniciativas técnicas** ou **construir sistemas e automações completas de ponta a ponta usando Agentes de IA**? Vamos conversar:
+Buscando alguém com **base sólida em computação e segurança**, capaz de **arquitetar soluções** ou **construir sistemas e automações completas de ponta a ponta usando Agentes de IA**? Vamos conversar:
 
 <div align="center">
 
